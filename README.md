@@ -15,7 +15,6 @@ Llista de traduccions de jocs oficials sense cap instal·lació extra. Només en
 - [**Pokémon Pinball:**][pinballcat]
 - [**Isaac Afterbirth +:**][isaac]
 - [**Isaac Repentance:**][rep]
-- 
 
 [c]: https://twitter.com/PrCeTrencada
 [pinballcat]: https://github.com/PrCeTrencada/pokepinball_cat
