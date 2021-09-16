@@ -9,6 +9,21 @@ Llista de traduccions de jocs oficials sense cap instal·lació extra. Només en
 - [**GRUNND:**][gr]
 - [**HORROR_TALES_The_Wine:**][httw] També a Nintendo Switch, PS4, Xbox Series X i Series S, PS5, Xbox One
 
+
+# Traduccions No Oficials
+
+- [**Pokémon Pinball:**][pinballcat]
+- [**Isaac Afterbirth +:**][isaac]
+- [**Isaac Repentance:**][rep]
+- 
+
+[c]: https://twitter.com/PrCeTrencada
+[pinballcat]: https://github.com/PrCeTrencada/pokepinball_cat
+[pinballcat2]: https://github.com/PrCeTrencada/pokepinballrs_cat
+[isaac]: https://github.com/PrCeTrencada/Isaac_AfterbirthPlus_cat
+[rep]: https://github.com/PrCeTrencada/IsaacRepentance_cat
+[pc]:http://tinyurl.com/AmongUsCAT
+[movil]:https://tinyurl.com/AmongUsCATapk
 [swgp]:https://store.steampowered.com/app/1534180/Super_Woden_GP/
 [a1]:https://www.gog.com/game/aragami
 [a2]:https://www.gog.com/game/aragami_2 
