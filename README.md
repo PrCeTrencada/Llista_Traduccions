@@ -7,9 +7,6 @@ Llista de traduccions de jocs oficials sense cap instal·lació extra. Només en
 - [**Super Wooden GP:**][swgp]
 - [**Gartic Phone:**][gp]
 - [**GRUNND:**][gr]
-- [**KORAL:**][krl]  També a Nintendo Switch
-- [**INFERNIUM:**][inf] També a Nintendo Switch i PS4
-- [**MIND_Path_to_Thalamus_Enhanced_Edition:**][mpttee] També a Nintendo Switch i PS4
 - [**HORROR_TALES_The_Wine:**][httw] També a Nintendo Switch, PS4, Xbox Series X i Series S, PS5, Xbox One
 
 [swgp]:https://store.steampowered.com/app/1534180/Super_Woden_GP/
